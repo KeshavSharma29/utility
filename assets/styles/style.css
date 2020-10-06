@@ -14,8 +14,8 @@
 
 .site-header{
     background-color: rgba(0, 0, 0, .85);
-    -webkit-backdrop-filter: saturate(180%) blur(20px);
-    backdrop-filter: saturate(180%) blur(20px);
+    -webkit-backdrop-filter: saturate(160%) blur(23px);
+    backdrop-filter: saturate(160%) blur(23px);
 }
 
 /*
